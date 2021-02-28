@@ -1,0 +1,10 @@
+body > #bg {
+    height: 100%;
+     width: 100%;
+     background-color: rgb(2, 211, 248);
+     background:linear-gradient(
+22deg,
+       rgba(63,94,251,1) 20%,
+       rgba(252,70,107,0.6110819327731092)80%
+     );
+}

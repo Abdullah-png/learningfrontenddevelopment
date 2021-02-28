@@ -1,16 +1,43 @@
 p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-body{background-color: black;
-    color: #ffff;
+body{margin: 48px;
+    color: rgb(0, 0, 0);
  height: 100%;
  width: 100% ;
  font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:1.8rem;
+ background-image: url(Screenshot\ \(22\).png);
+ background-color: blue;
+ background-blend-mode: screen;
+ background-repeat: no-repeat;
+    }
 
-}
+
 
 video{border-top: chartreuse;
-
+border:2px solid red;
 
 }
+#para1{
+    text-align: left;
+}
+
+#para2{text-align: right;}
+
+
+#para3{text-align: center;}
+
+
+
+#para4{text-align: end;}
+
+
+
+
+#para5{text-align: inherit;
+border-style: solid;
+border-color:red;
+border-left: seagreen;
+border-width: thick;}
 
